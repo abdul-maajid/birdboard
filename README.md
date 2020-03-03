@@ -1,2 +1,0 @@
-# birdboard
-Laracast Application
